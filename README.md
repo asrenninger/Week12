@@ -4,8 +4,10 @@
 
 This repository contains:
 
-- [Feature visualization in DL]
+- Feature visualization in DL
+
     https://openai.com/blog/introducing-activation-atlases
+    
 - [Literature review paper: Deep Learning in Remote Sensing](DLINRS_Review_Annotated.pdf)
 - [Review of HWs]
     
