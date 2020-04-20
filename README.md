@@ -9,5 +9,7 @@ This repository contains:
     https://openai.com/blog/introducing-activation-atlases
     
 - [Literature review paper: Deep Learning in Remote Sensing](DLINRS_Review_Annotated.pdf)
-- [Review of HWs]
+
+- Review of HWs
+
     
