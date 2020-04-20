@@ -10,7 +10,9 @@ This repository contains:
     
 - [Literature review paper: Deep Learning in Remote Sensing](DLINRS_Review_Annotated.pdf)
 
-- [Review of HWs] (HW1_Overview.pdf)
+- Review of HWs:
+
+    [HW1 Overview](HW1_Overview.pdf)
 
     https://drive.google.com/drive/u/1/folders/15IbhDaShn6DDJN80YjSEzDKamsHXkH0S
 
